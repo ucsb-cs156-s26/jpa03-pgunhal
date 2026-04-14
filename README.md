@@ -2,7 +2,7 @@
 
 
 
-Running at: <https://pgunhal-jpa03.dokku-13.cs.ucsb.edu>
+Running at: <https://jpa03-pgunhal.dokku-13.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
